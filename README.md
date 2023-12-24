@@ -1,2 +1,3 @@
-# Automationjava
-Automation Java menggunakan java ver 11, dengan case pada website Yopmail.com
+# Automation Java
+
+Automation Java menggunakan java version 11, dengan case pada website Yopmail.com
